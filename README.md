@@ -18,7 +18,7 @@ A script designed with a sleek and modern design for being able to display your 
 
 ## Preview
 
-![image](https://user-images.githubusercontent.com/82112471/206809426-155ad6fd-50d0-4ff9-add0-d72ae00f2304.png)
+![image](https://i.imgur.com/JC9SgCN.png)![image](https://i.imgur.com/cwbFAKf.png)
 
 ## Installation
 
